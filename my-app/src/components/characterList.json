@@ -1,0 +1,93 @@
+
+[
+	{
+		"id": 3,
+		"clicked": false,
+		"photo": "assets/daenerys.png",
+		"name": "Danny"
+	},
+	{
+		"id": 12,
+		"clicked": false,
+		"photo": "assets/jon.png",
+		"name": "Snow"
+	},
+	{
+		"id": 11,
+		"clicked": false,
+		"photo": "assets/tyrion.png",
+		"name": "Tyrion"
+	},
+	{
+		"id": 15,
+		"clicked": false,
+		"photo": "assets/arya.png",
+		"name": "Arya"
+	},
+	{
+		"id": 5,
+		"clicked": false,
+		"photo": "assets/cersei.png",
+		"name": "Cersei"
+	},
+	{
+		"id": 10,
+		"clicked": false,
+		"photo": "assets/sansa.png",
+		"name": "Sansa"
+	},
+	{
+		"id": 4,
+		"clicked": false,
+		"photo": "assets/bran.png",
+		"name": "Bran"
+	},
+	{
+		"id": 1,
+		"clicked": false,
+		"photo": "assets/yara.png",
+		"name": "Yara"
+	},
+	{
+		"id": 8,
+		"clicked": false,
+		"photo": "assets/varys.png",
+		"name": "Varys"
+	},
+	{
+		"id": 9,
+		"clicked": false,
+		"photo": "assets/loras.png",
+		"name": "Loras"
+	},
+	{
+		"id": 6,
+		"clicked": false,
+		"photo": "assets/renly.png",
+		"name": "Renly"
+	},
+	{
+		"id": 13,
+		"clicked": false,
+		"photo": "assets/drogo.png",
+		"name": "Drogo"
+	},
+	{
+        "id": 14,
+        "clicked": false,
+		"photo": "assets/hodor.png",
+		"name": "Hodor"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+		"photo": "assets/margaery.png",
+		"name": "Margaery"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+		"photo": "assets/brienne.png",
+		"name": "Brienne"
+	}
+]
